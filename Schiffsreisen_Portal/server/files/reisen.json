@@ -1,0 +1,950 @@
+[
+	{
+		"reisenummer": 1,
+		"meerart": "Ostsee",
+		"uebernachtungen": 7,
+		"staedte": [ "Riga" , "Tallin", "Stockholm", "Kopenhagen" ],
+		"schiffstyp": "A",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 599
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 699
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 899
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 1400
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 1700
+				}
+			]
+	},
+	{
+		"reisenummer": 2,
+		"meerart": "Ostsee",
+		"uebernachtungen": 14,
+		"staedte": [ "Danzig" , "Riga", "Tallin", "Sankt Petersburg", "Helsinki", "Stockholm", "Kopenhagen"],
+		"schiffstyp": "A",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2049
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2249
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2599
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3200
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3600
+				}
+			]
+	},
+	{
+		"reisenummer": 3,
+		"meerart": "Ostsee",
+		"uebernachtungen": 8,
+		"staedte": [ "Ystad" , "Visby", "Helsinki", "Tallin" ],
+		"schiffstyp": "F",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 478
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 578
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 878
+				}
+			]
+	},
+	{
+		"reisenummer": 4,
+		"meerart": "Ostsee",
+		"uebernachtungen": 15,
+		"staedte": [ "Danzig" , "Riga", "Tallin", "Sankt Petersburg", "Helsinki", "Stockholm", "Kopenhagen"],
+		"schiffstyp": "B",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1890
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2040
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2440
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 2900
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3400
+				}
+			]
+	},
+	{
+		"reisenummer": 5,
+		"meerart": "Ostsee",
+		"uebernachtungen": 7,
+		"staedte": [ "Ystad" , "Visby", "Stockholm", "Helsinki", "Tallin" ],
+		"schiffstyp": "C",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 789
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 845
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 912
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 1489
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 1998
+				}
+			]
+	},
+	{
+		"reisenummer": 6,
+		"meerart": "Ostsee",
+		"uebernachtungen": 21,
+		"staedte": [ "Stralsund" , "Danzig", "Kaliningrad", "Kleipeda", "Riga", "Tallin", "Sankt Petersburg", "Helsinki", "Stockholm", "Kopenhagen" ],
+		"schiffstyp": "A",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 3012
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 3587
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 4019
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 5250
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 5374
+				}
+			]
+	},
+	{
+		"reisenummer": 7,
+		"meerart": "Ostsee",
+		"uebernachtungen": 10,
+		"staedte": [ "Ystad" , "Visby", "Stockholm", "Helsinki", "Tallin" ],
+		"schiffstyp": "C",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1030
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 1230
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 1490
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 1795
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 1995
+				}
+			]
+	},
+	{
+		"reisenummer": 8,
+		"meerart": "Ostsee",
+		"uebernachtungen": 9,
+		"staedte": [ "Rostock" , "Kopenhagen", "Oulu", "Visby" ],
+		"schiffstyp": "G",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2500
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 3200
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3750
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3900
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4300
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 4250
+				}
+			]
+	},
+	{
+		"reisenummer": 9,
+		"meerart": "Ostsee",
+		"uebernachtungen": 12,
+		"staedte": [ "Rostock" , "Tallin", "Helsinki", "Oulu" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				{
+					"type": "Aussenkabine",
+					"price": 2200
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3300
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 4700
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4800
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3900
+				}
+			]
+	},
+	{
+		"reisenummer": 10,
+		"meerart": "Ostsee",
+		"uebernachtungen": 16,
+		"staedte": [ "Ystad" , "Umea", "Oulu", "Sankt Petersburg", "Danzig", "Rostock" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				{
+					"type": "Aussenkabine",
+					"price": 2570
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3400
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 4700
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4800
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3900
+				}
+			]
+	},
+	{
+		"reisenummer": 11,
+		"meerart": "Nordsee",
+		"uebernachtungen": 8,
+		"staedte": [ "Bergen", "Trondheim", "Aberdeen", "Edinburgh", "Den Haag" ],
+		"schiffstyp": "A",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1089
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 1289
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 1489
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 1789
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 2015
+				}
+			]
+	},
+	{
+		"reisenummer": 12,
+		"meerart": "Nordsee",
+		"uebernachtungen": 10,
+		"staedte": [ "Amsterdam", "Den Haag", "Edinburgh", "Torshavn", "Bergen", "Kristiansand" ],
+		"schiffstyp": "D",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1987
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2101
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2239
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 2749
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3025
+				}
+			]
+	},
+	{
+		"reisenummer": 13,
+		"meerart": "Nordsee",
+		"uebernachtungen": 14,
+		"staedte": [ "Amsterdam", "Den Haag", "Edinburgh", "Torshavn", "Bergen", "Kristiansand" ],
+		"schiffstyp": "A",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2010
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2456
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2879
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3112
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3249
+				}
+			]
+	},
+	{
+		"reisenummer": 14,
+		"meerart": "Nordsee",
+		"uebernachtungen": 21,
+		"staedte": [ "Kristiansand", "Haugesund", "Bergen","Trondheim", "Tromsö", "Aberdeen" ],
+		"schiffstyp": "E",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2120
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2230
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2415
+				}
+			]
+	},
+	{
+		"reisenummer": 15,
+		"meerart": "Nordsee",
+		"uebernachtungen": 14,
+		"staedte": [ "Göteborg", "Kristiansand", "Bergen", "Trondheim", "Torshavn", "Edinburgh" ],
+		"schiffstyp": "C",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2120
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2349
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2799
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3298
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3478
+				}
+			]
+	},
+	{
+		"reisenummer": 16,
+		"meerart": "Nordsee",
+		"uebernachtungen": 7,
+		"staedte": [ "Edinburgh", "Aberdeen", "Torshavn" ],
+		"schiffstyp": "E",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 789
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 840
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 972
+				}
+			]
+	},
+	{
+		"reisenummer": 17,
+		"meerart": "Nordsee",
+		"uebernachtungen": 14,
+		"staedte": [ "Edinburgh", "Aberdeen", "Torshavn", "Reykjavik" ],
+		"schiffstyp": "F",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2490
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2890
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3120
+				}
+			]
+	},
+	{
+		"reisenummer": 18,
+		"meerart": "Nordsee",
+		"uebernachtungen": 21,
+		"staedte": [ "Hamburg", "Kristiansand", "Bergen", "Tromsö", "Longyearbyen", "Edinburgh", "Den Haag" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				{
+					"type": "Aussenkabine",
+					"price": 4329
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 4989
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 5789
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 5910
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 6200
+				}
+			]
+	},
+	{
+		"reisenummer": 19,
+		"meerart": "Nordsee",
+		"uebernachtungen": 12,
+		"staedte": [ "Hamburg", "London", "Antwerpen", "Den Haag","Amsterdam" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				{
+					"type": "Aussenkabine",
+					"price": 2989
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3200
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3895
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3950
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 4100
+				}
+			]
+	},
+	{
+		"reisenummer": 20,
+		"meerart": "Nordsee",
+		"uebernachtungen": 14,
+		"staedte": [ "Hamburg", "Bergen", "Edinburgh", "London", "Den Haag" ],
+		"schiffstyp": "G",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2890
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 3250
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3670
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 4210
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4390
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 4999
+				}
+			]
+	},
+
+	
+	{
+		"reisenummer": 21,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 12,
+		"staedte": [ "Genua", "Marseille", "Barcelona", "Valencia", "Cagliari", "Palermo", "Neapel" ],
+		"schiffstyp": "C",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1930
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2301
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2569
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3210
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 2458
+				}
+			]
+	},
+	{
+		"reisenummer": 22,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 10,
+		"staedte": [ "Genua", "Marseille", "Barcelona", "Valencia", "Cagliari", "Palermo" ],
+		"schiffstyp": "E",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 1567
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 1888
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2310
+				}
+			]
+	},
+	{
+		"reisenummer": 23,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 8,
+		"staedte": [ "Marseille", "Barcelona", "Malaga", "Gibraltar", "Cagliari" ],
+		"schiffstyp": "F",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 898
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 1049
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 1450
+				}
+			]
+	},
+	{
+		"reisenummer": 24,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 21,
+		"staedte": [ "Marseille", "Barcelona", "Valencia", "Malaga", "Gibraltar", "Tanger", "Algier", "Tunis", "Palermo", "Valetta", "Cagliari" ],
+		"schiffstyp": "C",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2098
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2290
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2610
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 2950
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3240
+				}
+			]
+	},
+	{
+		"reisenummer": 25,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 14,
+		"staedte": [ "Venedig", "Split", "Athen", "Catania", "Bari" ],
+		"schiffstyp": "B",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2190
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2309
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 2670
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 2990
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3249
+				}
+			]
+	},
+	{
+		"reisenummer": 26,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 7,
+		"staedte": [ "Venedig", "Bari", "Catania", "Valetta", "Split" ],
+		"schiffstyp": "F",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 789
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 890
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 1190
+				}
+			]
+	},
+	{
+		"reisenummer": 27,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 8,
+		"staedte": [ "Venedig", "Bari", "Catania", "Valetta", "Split" ],
+		"schiffstyp": "E",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 880
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 990
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 1290
+				}
+			]
+	},
+	{
+		"reisenummer": 28,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 18,
+		"staedte": [ "Nizza", "Marseille", "Barcelona", "Palma de Mallorca", "Algier", "Tunis", "Cagliari" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				
+				{
+					"type": "Aussenkabine",
+					"price": 2380
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3289
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 3789
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 3900
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 4200
+				}
+			]
+	},
+	{
+		"reisenummer": 29,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 20,
+		"staedte": [ "Neapel", "Palermo", "Catania", "Tunis", "Algier", "Palma de Mallorca", "Barcelona","Marseille", "Nizza" ],
+		"schiffstyp": "H",
+		"kabinen":
+			[
+				
+				{
+					"type": "Aussenkabine",
+					"price": 3400
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3890
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 4200
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4500
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 5090
+				}
+			]
+	},{
+		"reisenummer": 30,
+		"meerart": "Mittelmeer",
+		"uebernachtungen": 10,
+		"staedte": [ "Neapel", "Palermo", "Cagliari", "Palma de Mallorca", "Nizza"],
+		"schiffstyp": "G",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 3490
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 3890
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 4216
+				},
+				{
+					"type": "Luxuskabine 1",
+					"price": 4590
+				},
+				{
+					"type": "Luxuskabine 2",
+					"price": 4790
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 5019
+				}
+			]
+	},
+	{
+		"reisenummer": 31,
+		"meerart": "Nordpolarmeer",
+		"uebernachtungen": 25,
+		"staedte": ["Hamburg", "Tromsö", "Longyearbyen", "Reykjavik", "Nuuk", "Thule"],
+		"schiffstyp": "I",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 4390
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 4790
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 4990
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 6730
+				}
+			]
+	},
+	{
+		"reisenummer": 32,
+		"meerart": "Nordpolarmeer",
+		"uebernachtungen": 12,
+		"staedte": [ "Reykjavik", "Nuuk", "Thule"],
+		"schiffstyp": "I",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2450
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2790
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3120
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3970
+				}
+			]
+	},
+	{
+		"reisenummer": 33,
+		"meerart": "Nordpolarmeer",
+		"uebernachtungen": 18,
+		"staedte": [ "Tromsö", "Longyearbyen","Reykjavik"],
+		"schiffstyp": "I",
+		"kabinen":
+			[
+				{
+					"type": "Innenkabine",
+					"price": 2700
+				},
+				{
+					"type": "Aussenkabine",
+					"price": 2900
+				},
+				{
+					"type": "Balkonkabine",
+					"price": 3249
+				},
+				{
+					"type": "Luxuskabine 3",
+					"price": 3620
+				}
+			]
+	},
+
+	{
+		"reisenummer": 34,
+		"meerart": "Nordpolarmeer mit Spezialflugtraining und Sonderbewachung",
+		"uebernachtungen": 7,
+		"staedte": [ "Thule", "Reykjavik", "Longyearbyen"],
+		"schiffstyp": "X",
+		"kabinen":
+			[
+				{
+					"type": "Luxuskabine 3",
+					"price": 10790
+				}
+			]
+	}
+
+
+
+
+]
